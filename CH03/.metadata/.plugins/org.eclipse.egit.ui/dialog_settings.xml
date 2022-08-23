@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="CommitDialog.authorValues">
+		<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\nages\git\repository21\.git">
+			<item value="false"/>
+			<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+			<item value="bvg"/>
+			<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+			<item value="7eccff2e8738c24d391646983724693b3e7d1bdf"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+		<list key="C:\Users\nages\.git">
+			<item value="false"/>
+			<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+			<item value="comm"/>
+			<item value="NageshN9901 &lt;nageshnage9966@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>
